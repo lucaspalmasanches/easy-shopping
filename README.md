@@ -43,6 +43,8 @@ Confira o projeto rodando em diferentes dispositivos:
   <img src="https://github.com/lucaspalmasanches/easy-shopping/blob/main/assets/EasyShoppingMobile.png?raw=true" alt="Easy Shopping - Versão Mobile" width="48%">
 </p>
 
+🌐 [Ver Projeto Online](https://lucaspalmasanches.github.io/easy-shopping/)
+
 ---
 
 ## 📚 Aprendizados
