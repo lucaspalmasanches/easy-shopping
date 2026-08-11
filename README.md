@@ -5,3 +5,4 @@
 
 <img src="https://github.com/lucaspalmasanches/easy-shopping/blob/main/assets/EasyShoppingPC.png?raw=true">
 
+<img src="https://github.com/lucaspalmasanches/easy-shopping/blob/main/assets/EasyShoppingMobile.png?raw=true">
